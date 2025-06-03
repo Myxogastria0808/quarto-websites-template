@@ -68,7 +68,13 @@ It has hot-reloading enabled, so you can see changes in real-time.
 quarto preview src
 ```
 
-Enjoy your Quarto website development with Nix!
+4. Publish your website using GitHub Pages.
+
+This template has a GitHub Actions workflow that automatically builds and deploys your Quarto website to GitHub Pages when you push changes to the `main` branch.
+
+You can publish it by setting the `gh-pages` branch as the source for GitHub Pages in your repository settings.
+
+**Enjoy your Quarto website development with Nix!**
 
 ## License
 
