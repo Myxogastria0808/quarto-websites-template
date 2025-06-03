@@ -7,6 +7,9 @@ It includes a basic structure and configuration to help you get started quickly.
 
 ## How to Use
 
+> [!WARNING]
+> You need to have Nix and flake installed on your system to use this template.
+
 0. Clone this repository
 
 ```sh
