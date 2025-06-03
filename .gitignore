@@ -1,0 +1,7 @@
+# Quarto
+/src/.quarto
+/src/_site
+
+# Nix
+/.direnv
+
